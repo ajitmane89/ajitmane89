@@ -1,13 +1,5 @@
-- 👋 Hi, I’m Ajit Mane
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning DevOps and Observability
-- 💞️ I’m looking for a job related with DevOps
-- 📫 How to reach me ... avaiable on ajit.mane89@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Ajit Mane [DevOps Enthusiast | IT Professional]
 
-For 2 tier architecture kindly refer : https://github.com/LondheShubham153/two-tier-flask-app 
-<!---
-ajitmane89/ajitmane89 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there! 👋 I'm Ajit Mane, a passionate IT professional with over 10 years of experience in the industry. I hold a Bachelor's in Engineering (BE) in Information Technology. My journey began as a Support Engineer, where I developed strong problem-solving and troubleshooting skills. Over the years, I’ve transitioned through various roles and have gained hands-on experience in diverse IT domains. Currently, I’m focusing on DevOps and am committed to continuous learning and improvement in automation, cloud computing, and CI/CD pipelines. I’m excited about building scalable and efficient systems that drive innovation.
+
+Let’s connect and collaborate!
